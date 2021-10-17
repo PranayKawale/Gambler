@@ -1,1 +1,1 @@
-# Gambler
+# Welcome to the Gambling game
