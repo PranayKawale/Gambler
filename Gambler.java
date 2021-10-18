@@ -13,10 +13,9 @@ public class Gambler {
 		System.out.println("Welcome to the gambling");
 		System.out.println("You can bet in a day $" + stakePerDay);
 		System.out.println("You can bet per game $"+betPerGame);
-		UC2 ab = new UC2();
-	//	ab.gamblerStatus();
+		UC2 ab = new UC2();//	ab.gamblerStatus();
 		UC3 bc = new UC3();
-	//	bc.winLost();
+		bc.winLost();
 		UC4 cd = new UC4();
 		cd.totalAmount();
 	} 
